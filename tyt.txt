@@ -1,0 +1,23 @@
+git bash
+
+//Create repo
+git init
+
+//Clone repo
+git clone {URL}
+
+//Add files
+git add {name or * or all}
+
+//Commit
+git commit -m 'Message here'
+
+
+//Public repo
+git push -u origin master
+
+//update repo
+git pull -u
+
+
+
